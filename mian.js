@@ -10,5 +10,3 @@ while (x < listaSpesa.length) {
     document.querySelector('.ulist').innerHTML += lista;
     x++;
 }
-
-console.log('lista');
